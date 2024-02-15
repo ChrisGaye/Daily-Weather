@@ -18,7 +18,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city  
 
 **Mock-Up** 
-(insert screenshot here)
+![Alt text](assets/images/Screenshot%202024-02-14%20225213.png)
 
 **Grading Requirements**    
 NOTE
